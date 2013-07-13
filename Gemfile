@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
-gem 'devise'
-gem 'simple_form'
+gem 'devise', '3.0.0.rc'
+gem 'simple_form', '~> 2.1.0'
 
 gem 'sqlite3'
 gem 'bootstrap-sass', '~> 2.2.2.0'
